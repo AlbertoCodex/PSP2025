@@ -1,0 +1,7 @@
+Pasos para que funciones:
+-- las mayusculas son las constantes que hay que modificar --
+1- Permisos de usuario en Filezilla (Modificar USUARIO y PASSWORD || SERVIDOR y PUERTO depende)
+2- Cambiar DOWNLOAD_DIR a una ruta de tu ordenador, es la ruta donde se va a descargar los archivos que haya en filezilla
+3- Por si el servidor de filezilla está vacio, descomentar en el main linea 92-99 (esto solo sube 1 fichero), modificar FICHERO.TXT a una ruta de tu ordenador
+
+
